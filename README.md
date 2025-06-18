@@ -13,7 +13,6 @@ Sou administrador de empresas, desenvolvedor de automações, e analista de dado
 - 👩‍💻 Aprendendo algo sobre Inteligência Artificial
 
 <div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
