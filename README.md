@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou administrador de empresas, desenvolvedor de automações, e analista de dados.
+Sou administrador de empresas, desenvolvedor de automações e analista de dados.
 
 - ❤ Estudante de Análise de Dados e Inteligênica Artificial
 - 👩‍💻 Aprendendo algo sobre Inteligência Artificial
