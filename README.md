@@ -25,6 +25,6 @@ Sou administrador de empresas, desenvolvedor de automações, e analista de dado
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsanderribeiro&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=alefsanderribeiro&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefsanderribeiro&show_icons=true&theme=transparent &count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=alefsanderribeiro&show_icons=true&show_icons=true&theme=transparent &count_private=true" />
 </div>
